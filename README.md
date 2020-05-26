@@ -14,5 +14,3 @@ A simple tool to combine music and audio files with a few clicks.
 ## Upcoming Features:
 <li>Sync audio and video clips with one button</li>
 <li>Smart combine multiple videos</li>
-
-###ETA: N/A
