@@ -5,3 +5,4 @@ Depends on:
 
 <li>NAudio</li>
 <li>NAudio.WaveFormRenderer</li>
+<li>FFmpeg</li>
